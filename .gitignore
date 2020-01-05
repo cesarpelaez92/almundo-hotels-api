@@ -1,0 +1,17 @@
+# compiled output
+/build
+/dist
+/dist-production
+/tmp
+/out-tsc
+
+# dependencies
+node_modules/
+
+# editors
+/.idea
+/.vscode
+
+# system
+.DS_Store
+Thumbs.db
